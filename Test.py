@@ -1,6 +1,7 @@
 name = "Aneesh"
-print(name)
-while(True): #Loop
+i = 0
+while i <5: #Loop
   print(name)
+  i+= 1
   
 
